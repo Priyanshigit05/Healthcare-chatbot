@@ -1,2 +1,8 @@
-# Healthcare-chatbot
-this project aims to develop an artificial intelligence medical chatbot to assist in problem diagnosis. Building this project used natural language processing so that users communicate with the chatbot effectively. The project aims to identify the health issue, summarise the problem, and recommend the doctor.
+# healthcare-chatbot
+## Important Note !!
+Please note that the project is no longer maintained. 
+If anyone wants to expand it further, simply clone it to your own local , make changes and push to your own github account. 
+
+Thanks all !!! 
+
+a chatbot based on sklearn where you can give a symptom and it will ask you questions and will tell you the details and give some advice.
